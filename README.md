@@ -5,15 +5,15 @@ This project is a web application that displays posts as cards with a title, ima
 - The **frontend**, built with React and Vite, was already provided. It has been visually enhanced with custom CSS.
 - The **backend** has been created in this project using Node.js, Express, and PostgreSQL.
 
-### Preview
-
-![LikeMe Preview](frontend/assets/preview_likeme.png)
-
 ### Features implemented:
 - View all posts
 - Create new posts via a form
 - Like posts
 - Delete posts
+
+### Preview:
+
+![LikeMe Preview](frontend/assets/preview_likeme.png)
 
 # Project Setup and Run
 
