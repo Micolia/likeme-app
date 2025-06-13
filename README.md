@@ -2,14 +2,12 @@
 
 This project is a web application that displays posts as cards with a title, image, description, and likes counter.
 
-- The **frontend**, built with React and Vite, was already provided.
+- The **frontend**, built with React and Vite, was already provided. It has been visually enhanced with custom CSS.
 - The **backend** has been created in this project using Node.js, Express, and PostgreSQL.
 
 ### Features implemented:
 - View all posts
 - Create new posts via a form
-
-### Coming soon:
 - Like posts
 - Delete posts
 
