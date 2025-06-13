@@ -1,19 +1,19 @@
 body {
-  background: #f1f1f1;
+  background: #000000;
+  color: white;
 }
 
 .form {
   padding: 15px;
-  background: #0d47a1;
+  background: linear-gradient(135deg, #a618df, #00aaff);
   color: white;
+  border-radius: 20px;
 }
 
 .card-body {
-  background: #e1e2e1;
-}
-
-#creado {
-  background: #002b55;
+  background: #000000;
+  border-radius: 25px;
+  border: 4px solid #00aaff;
 }
 
 .card {
@@ -29,6 +29,43 @@ i {
   cursor: pointer;
 }
 .App {
-  font-family: sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
+}
+
+.fa-heart {
+  color: #00aaff;
+}
+
+.btnform {
+  display: block;
+  margin: 20px auto;
+  font-family: sans-serif;
+  padding: 10px 20px;
+  border-radius: 80px;
+  border: 4px solid #ffffff;
+  background-color: #00aaff;
+  color: white;
+  font-weight: bold;
+}
+
+.card-img-top {
+  border-radius: 20px 20px 0 0;
+  height: 200px;
+}
+
+.py-5 {
+  color: black;
+  -webkit-text-stroke: 1px #00aaff;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.mb-2 h6 {
+  margin: 10px 0 20px 0;
+  font-size: 1.5rem;
+}
+
+.mb-2 label, .mb-3 label {
+  margin-bottom:10px;
 }

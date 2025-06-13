@@ -40,7 +40,7 @@ function App() {
 
   return (
     <div className="App">
-      <h2 className="py-5 text-center">&#128248; Like Me &#128248;</h2>
+      <h2 className="py-5 text-center">LikeMe App</h2>
       <div className="row m-auto px-5">
         <div className="col-12 col-sm-4">
           <Form
